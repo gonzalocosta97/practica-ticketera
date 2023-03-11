@@ -1,0 +1,1 @@
+Práctica desarrollada en lenguaje de programación JAVA, usando metodología de diseño TDD, que simula el comportamiento de una ticketera.
