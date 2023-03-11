@@ -229,7 +229,7 @@ public class TicketeraTest {
 	}
 	
 	@Test
-	public void queElPrimerTicketGeneradoDeCadaTipoLuegoDeResetearLaTicketeraSeanNumero1() {
+	public void queElPrimerTicketGeneradoDeCadaTipoLuegoDeResetearLaTicketeraSeaNumero1() {
 		
 		// Preparación
 		
